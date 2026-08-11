@@ -64,24 +64,24 @@ gaming-analytics-sql
 
 ## Business Case Studies
 
-| Business Case Study   | Status         |
-| --------------------- | -------------- |
-| Gaming Case Study #01 | 🔄 In Progress |
-| Gaming Case Study #02 | ⏳ Planned      |
-| Gaming Case Study #03 | ⏳ Planned      |
-| Gaming Case Study #04 | ⏳ Planned      |
-| Gaming Case Study #05 | ⏳ Planned      |
-| Gaming Case Study #06 | ⏳ Planned      |
-| Gaming Case Study #07 | ⏳ Planned      |
-| Gaming Case Study #08 | ⏳ Planned      |
-| Gaming Case Study #09 | ⏳ Planned      |
-| Gaming Case Study #10 | ⏳ Planned      |
+| Business Case Study   | Status            |
+| --------------------- | ----------------- |
+| Gaming Case Study #01 | 🟢 Ready to Start |
+| Gaming Case Study #02 | ⏳ Planned         |
+| Gaming Case Study #03 | ⏳ Planned         |
+| Gaming Case Study #04 | ⏳ Planned         |
+| Gaming Case Study #05 | ⏳ Planned         |
+| Gaming Case Study #06 | ⏳ Planned         |
+| Gaming Case Study #07 | ⏳ Planned         |
+| Gaming Case Study #08 | ⏳ Planned         |
+| Gaming Case Study #09 | ⏳ Planned         |
+| Gaming Case Study #10 | ⏳ Planned         |
 
 ---
 
 ## Repository Goal
 
-The goal of this repository is to strengthen practical SQL skills by solving real-world gaming business scenarios and gradually working from intermediate to advanced SQL concepts.
+The goal of this repository is to strengthen practical SQL skills by solving real-world gaming business scenarios and gradually progressing from intermediate to advanced SQL concepts.
 
 The case studies will focus on areas such as:
 
