@@ -1,15 +1,16 @@
-# Gaming Analytics using SQL
+# 🎮 Gaming Analytics using SQL
 
-This repository focuses on solving real-world gaming business problems using SQL and a gaming analytics dataset.
+A practical SQL portfolio project focused on solving **real-world gaming business problems** through structured business case studies.
 
-The project is designed to strengthen practical SQL problem-solving skills through business-focused case studies involving games, sales, genres, platforms, publishers, ratings, release years, and regional performance.
+The project uses gaming data covering **games, sales, genres, platforms, publishers, ratings, release years, and regional performance** to develop practical SQL problem-solving and analytical skills.
 
 ---
 
-## SQL Concepts Covered
+## 📚 SQL Concepts Covered
+
+### Core SQL
 
 * SQL Queries
-* Joins
 * INNER JOIN
 * LEFT JOIN
 * Aggregate Functions
@@ -20,10 +21,16 @@ The project is designed to strengthen practical SQL problem-solving skills throu
 * CASE Statements
 * Date Functions
 * NULL Handling
+
+### Intermediate SQL
+
 * Subqueries
 * Correlated Subqueries
 * Derived Tables
 * Common Table Expressions (CTEs)
+
+### Advanced SQL
+
 * Window Functions
 * `ROW_NUMBER()`
 * `RANK()`
@@ -36,12 +43,16 @@ The project is designed to strengthen practical SQL problem-solving skills throu
 * Top-N Analysis
 * Percentage Analysis
 * Year-over-Year Analysis
+
+### Business Analysis
+
 * Business Metrics
 * Business Problem Solving
+* Data-driven Analysis
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 ```text
 gaming-analytics-sql
@@ -62,9 +73,9 @@ gaming-analytics-sql
 
 ---
 
-## Business Case Studies
+## 📊 Business Case Studies
 
-| Business Case Study   | Status            |
+| Case Study            | Status            |
 | --------------------- | ----------------- |
 | Gaming Case Study #01 | 🟢 Ready to Start |
 | Gaming Case Study #02 | ⏳ Planned         |
@@ -79,27 +90,55 @@ gaming-analytics-sql
 
 ---
 
-## Repository Goal
+## 🎯 Business Areas
 
-The goal of this repository is to strengthen practical SQL skills by solving real-world gaming business scenarios and gradually progressing from intermediate to advanced SQL concepts.
+The case studies will explore practical gaming business scenarios such as:
 
-The case studies will focus on areas such as:
+* 🎮 Game Sales Analysis
+* 🏆 Top Games Analysis
+* 🎭 Genre Performance
+* 🖥️ Platform Performance
+* 🏢 Publisher Analysis
+* 🌎 Regional Sales Analysis
+* 📈 Game Ranking
+* 📅 Year-over-Year Performance
+* 💡 Advanced Business Analysis
 
-* Game Sales Analysis
-* Top Games Analysis
-* Genre Performance
-* Platform Performance
-* Publisher Analysis
-* Regional Sales Analysis
-* Game Ranking
-* Year-over-Year Performance
-* Advanced Business Analysis
+---
 
-Each case study follows a structured approach:
+## 🔍 Case Study Approach
 
-* Business Problem
-* Business Objective
-* SQL Solution
-* Output
-* Business Insights
-* Documentation
+Each business case study follows a structured analytical approach:
+
+1. **Business Problem**
+2. **Business Objective**
+3. **SQL Analysis**
+4. **Query Output**
+5. **Business Insights**
+6. **Documentation**
+
+The focus is not only on writing SQL queries, but also on understanding the **business requirement behind each analysis**.
+
+---
+
+## 🚀 Repository Goal
+
+The goal of this repository is to strengthen practical SQL skills by solving **real-world gaming business scenarios** and progressing from intermediate to advanced SQL concepts.
+
+The project emphasizes:
+
+* Writing efficient SQL queries
+* Understanding database relationships
+* Choosing the appropriate SQL technique for a business problem
+* Applying intermediate and advanced SQL concepts
+* Translating business requirements into SQL solutions
+* Extracting meaningful insights from data
+
+---
+
+## 🛠️ Tools
+
+* Microsoft SQL Server
+* SQL Server Management Studio (SSMS)
+* Git
+* GitHub
