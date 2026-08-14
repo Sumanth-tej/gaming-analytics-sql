@@ -199,7 +199,7 @@ gaming-analytics-sql
 
 | Case Study            | Status            |
 | --------------------- | ----------------- |
-| Gaming Case Study #01 | 🟢 Ready to Start |
+| Gaming Case Study #01 | ✅ Completed |
 | Gaming Case Study #02 | ⏳ Planned         |
 | Gaming Case Study #03 | ⏳ Planned         |
 | Gaming Case Study #04 | ⏳ Planned         |
